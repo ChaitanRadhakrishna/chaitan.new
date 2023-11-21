@@ -4,7 +4,7 @@
       
     }
     variable "content" {
-        default  = "dog is my favourite pet"
+        default  = "cat is my favourite pet"
         type = string
       
     }
